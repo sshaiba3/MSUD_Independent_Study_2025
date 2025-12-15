@@ -17,7 +17,7 @@ Urban heat exposure disproportionately impacts low-income and transit-dependent 
 
 This study investigates how street-tree canopy configuration can reduce **Mean Radiant Temperature (MRT)** and heat exposure for pedestrians and transit users in heat-vulnerable neighborhoods across **Atlanta**, with a corridor-scale simulation focus on **Joseph E. Boone Boulevard (Vine City / English Avenue)**.  
 
-📄 **Final Report (PDF):** https://github.com/sshaiba3/MSUD_Independent_Study_2025/blob/main/INDEPENDENT%20STUDY%20-%20FINAL.pdf
+📄 **Final Report (PDF):** https://github.com/sshaiba3/MSUD_Independent_Study_2025/blob/main/Shaiba%20Siddiqui%20Independent%20Study%20Final.pdf
 
 ---
 
